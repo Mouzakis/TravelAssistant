@@ -1,0 +1,15 @@
+Servlets\MoreInfo.class
+com\project\heracliontravelassistant\db\MapDB.class
+com\project\heracliontravelassistant\model\SidePoint.class
+Servlets\updatePoint.class
+Servlets\PointList.class
+Servlets\addPoint.class
+Servlets\deletePoint.class
+Servlets\findEdit.class
+com\project\heracliontravelassistant\model\Point.class
+Servlets\locate.class
+com\project\heracliontravelassistant\db\PointDB.class
+com\project\heracliontravelassistant\model\SimplePoint.class
+Servlets\Filter.class
+test.class
+Servlets\init.class
